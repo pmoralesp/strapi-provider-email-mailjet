@@ -1,7 +1,7 @@
 {
-  "name": "@lamen-tribe/strapi-provider-email-mailjet",
-  "version": "4.0.1",
-  "description": "Strapi Email service provider for Mailjet",
+  "name": "@pmoralesp/strapi-provider-email-mailjet",
+  "version": "5.0.0",
+  "description": "Strapi v5 Email service provider for Mailjet",
   "author": {
     "email": "scott.agirs@gmail.com",
     "name": "Scott Agirs Neminskis"
@@ -40,13 +40,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ijsto/strapi-provider-email-mailjet.git"
+    "url": "git://github.com/pmoralesp/strapi-provider-email-mailjet.git"
   },
   "bugs": {
-    "url": "https://github.com/ijsto/strapi-provider-email-mailjet/issues"
+    "url": "https://github.com/pmoralesp/strapi-provider-email-mailjet/issues"
   },
   "strapi": {
     "isProvider": true
   },
-  "homepage": "https://github.com/ijsto/strapi-provider-email-mailjet"
+  "homepage": "https://github.com/pmoralesp/strapi-provider-email-mailjet"
 }
